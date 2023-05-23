@@ -1,0 +1,14 @@
+{
+  "global": {
+    "Border Radius level 1": {
+      "value": "0.5rem",
+      "type": "sizing"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
